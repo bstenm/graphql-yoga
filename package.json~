@@ -1,5 +1,5 @@
 {
-  "name": "@safe/graphql-yoga",
+  "name": "graphql-yoga",
   "description": "Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience",
   "version": "0.0.0-semantic-release",
   "main": "dist/index.js",
